@@ -1,0 +1,15 @@
+/Users/Evgenia/Documents/STUDIES/Гики/C#/UserGreetings2/bin/Debug/net6.0/UserGreetings2
+/Users/Evgenia/Documents/STUDIES/Гики/C#/UserGreetings2/bin/Debug/net6.0/UserGreetings2.deps.json
+/Users/Evgenia/Documents/STUDIES/Гики/C#/UserGreetings2/bin/Debug/net6.0/UserGreetings2.runtimeconfig.json
+/Users/Evgenia/Documents/STUDIES/Гики/C#/UserGreetings2/bin/Debug/net6.0/UserGreetings2.dll
+/Users/Evgenia/Documents/STUDIES/Гики/C#/UserGreetings2/bin/Debug/net6.0/UserGreetings2.pdb
+/Users/Evgenia/Documents/STUDIES/Гики/C#/UserGreetings2/obj/Debug/net6.0/UserGreetings2.csproj.AssemblyReference.cache
+/Users/Evgenia/Documents/STUDIES/Гики/C#/UserGreetings2/obj/Debug/net6.0/UserGreetings2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Evgenia/Documents/STUDIES/Гики/C#/UserGreetings2/obj/Debug/net6.0/UserGreetings2.AssemblyInfoInputs.cache
+/Users/Evgenia/Documents/STUDIES/Гики/C#/UserGreetings2/obj/Debug/net6.0/UserGreetings2.AssemblyInfo.cs
+/Users/Evgenia/Documents/STUDIES/Гики/C#/UserGreetings2/obj/Debug/net6.0/UserGreetings2.csproj.CoreCompileInputs.cache
+/Users/Evgenia/Documents/STUDIES/Гики/C#/UserGreetings2/obj/Debug/net6.0/UserGreetings2.dll
+/Users/Evgenia/Documents/STUDIES/Гики/C#/UserGreetings2/obj/Debug/net6.0/refint/UserGreetings2.dll
+/Users/Evgenia/Documents/STUDIES/Гики/C#/UserGreetings2/obj/Debug/net6.0/UserGreetings2.pdb
+/Users/Evgenia/Documents/STUDIES/Гики/C#/UserGreetings2/obj/Debug/net6.0/UserGreetings2.genruntimeconfig.cache
+/Users/Evgenia/Documents/STUDIES/Гики/C#/UserGreetings2/obj/Debug/net6.0/ref/UserGreetings2.dll
