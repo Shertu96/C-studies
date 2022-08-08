@@ -1,6 +1,3 @@
-﻿//Для деления без остатка целых чисел:
-
-int numberA = 15;
-int numberB = 3;
-int result = numberA/numberB;
-Console.WriteLine(result);
+﻿double numberA = 12;
+double numberB = 5;
+Console.WriteLine(numberA/numberB);
