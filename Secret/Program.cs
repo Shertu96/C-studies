@@ -4,7 +4,7 @@ bool flagWin = false;
 while(attempts > 0)
 {
     Console.WriteLine("Введите число от 1 до 10");
-    string str = Console.ReadLine();
+    string? str = Console.ReadLine();
     int UserNumber = 0;
     if(str == "1" || str == "2" || str == "3" || str == "4" || str == "5" || str == "6" || str == "7" || str == "8" || str == "9" || str == "10") //проверка типа данных, можно проще, пока не знаю, как именно
     {
