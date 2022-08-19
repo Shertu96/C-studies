@@ -4,14 +4,14 @@ void Method1()
 {
     Console.WriteLine("Автор...");
 }
-//Method1();
+Method1();
 
 
 void Method2(string msg)
 {
     Console.WriteLine(msg);
 }
-//Method2("Текст сообщения");
+Method2("Текст сообщения");
 
 void Method21(string msg, int count)
 {
@@ -23,7 +23,7 @@ void Method21(string msg, int count)
     }
     
 }
-//Method21(count: 4, msg: "Текст"); // Для именованных переменных порядок значения не имеет. Count - сколько раз.
+Method21(count: 4, msg: "Текст"); // Для именованных переменных порядок значения не имеет. Count - сколько раз.
 
 
 int Method3()
@@ -31,8 +31,8 @@ int Method3()
     return DateTime.Now.Year;
 }
 
-//int year = Method3;
-//Console.WriteLine(year);
+int year = Method3();
+Console.WriteLine(year);
 
 
 string Method4(int count, string c) // Вместо string тут можно char
