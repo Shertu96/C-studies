@@ -43,7 +43,7 @@ class Program
             newArray[i] = array[i] * array[array.Length - (i + 1)]; // i + 1 потому что индекс с нуля, а Length даст длину (с 1)
         }
 
-        // Костыль - исправить!
+        // TODO Костыль - исправить!
         if (array.Length % 2 == 0)
         {
             return newArray;
@@ -52,4 +52,3 @@ class Program
         return newArray;
     }
 }
-
