@@ -4,7 +4,7 @@ Console.WriteLine("Введите число:");
 string? textNum = Console.ReadLine();
 int sum = 0;
 
-for (int i = 0; i < textNum.Length; i++)
+for (int i = 0; i < textNum?.Length; i++)
 {
     sum += (int)Char.GetNumericValue(textNum[i]); // Конвертация символа в число (другие способы не сработали)
 }
