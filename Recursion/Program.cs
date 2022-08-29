@@ -1,5 +1,6 @@
 ﻿// Рекурсивные функции. Вывод ч/б изображение, его заливка с помощью правила обхода
 
+//int[,] pic = new int[23, 25];
 int[,] pic = new int[,]
 { 
         {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
@@ -51,7 +52,7 @@ void FillImage(int row, int col)
     if(pic[row, col] == 0)
     {
         pic[row, col] = 1;
-        FillImage(row -10, col);
+        FillImage(row - 1, col);
         FillImage(row, col - 1);
         FillImage(row + 1, col);
         FillImage(row, col + 1);
@@ -59,5 +60,5 @@ void FillImage(int row, int col)
 }
 
 PrintImage(pic);
-FillImage(5,5);
+FillImage(13,13);
 PrintImage(pic);
