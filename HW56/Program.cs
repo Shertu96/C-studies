@@ -4,7 +4,7 @@
 
 using System;
 
-namespace HW54
+namespace HW56
 {
     class Program
     {
